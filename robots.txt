@@ -1,0 +1,16 @@
+# jerrystevensjr.com
+# Search engines and AI answer engines may read every page.
+User-agent: *
+Allow: /
+
+# AI training crawlers: the words are welcome, the photograph files are not for training.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Disallow: /awesomephotograph/Awesome_Photography/
+Disallow: /awesomephotograph/Awesome_Photograph/
+Disallow: /awesomephotograph/Common/
+
+Sitemap: https://jerrystevensjr.com/sitemap.xml

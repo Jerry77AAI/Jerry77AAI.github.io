@@ -1,0 +1,19 @@
+# Jerry Stevens
+
+> Outside-plant (OSP) fiber engineer with thirty years leading fiber programs: planning, design, permitting and construction. Builds AI-assisted design automation for outside-plant engineering on Anthropic's Claude, the Model Context Protocol (MCP) and open-source GIS. Based in Middle Tennessee, USA.
+
+## Engineering and research
+
+- [Front page](https://jerrystevensjr.com/): the method (software drafts, the engineer rules), measured results on 177 miles of self-built test routes drawn from public data, the AI agent team and how its memory is governed, and current research.
+- [osp-gdb-validator](https://github.com/Jerry77AAI/osp-gdb-validator): open-source schema QC for Esri file geodatabases on GDAL. MIT license.
+
+## Photography
+
+- [Awesome Photograph](https://jerrystevensjr.com/awesomephotograph/index.html): landscape, wildlife, moonlight and landmark photographs with the stories behind them, 2006 to 2009.
+- [Site map](https://jerrystevensjr.com/awesomephotograph/Site_Map.html): every photograph story, listed by subject.
+
+## Contact
+
+- Email: stevensgurden@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/stevensjerry)
+- [GitHub](https://github.com/Jerry77AAI)
